@@ -116,6 +116,10 @@ nav a:hover,
 .menu_botton button:hover {
   box-shadow: 1px 1px 5px black;
 }
+p {
+  color: rgb(41, 41, 41);
+  font-family: Montserrat;
+}
 @media only screen and (max-width: 1000px) {
   body {
     margin: 0;
